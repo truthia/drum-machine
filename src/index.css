@@ -6,8 +6,15 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+*{
+  box-sizing: border-box;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+html{
+  background-image: url("https://p4.wallpaperbetter.com/wallpaper/431/557/117/anime-anime-girls-picture-in-picture-shigatsu-wa-kimi-no-uso-wallpaper-preview.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }

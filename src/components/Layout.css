@@ -1,0 +1,17 @@
+header {
+    display: block;
+    font-size: 18px;
+    max-height: 70px;
+    min-height: 70px;
+    margin:0 auto 0 auto;
+    text-align: center;
+    color: pink;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example {
+    0%   {font-size: 18px;}
+    50%  {font-size: 24px;}
+    100% {font-size: 18px;}
+  }
